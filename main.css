@@ -12,7 +12,7 @@
     height: 100vh;
     position: relative;
     text-align: center;
-    background: url("images/bg.jpg");
+    background: url("https://raw.githubusercontent.com/InCoderWeb/Tourist-Agency-Landing-Page/master/Images/bg.jpg");
     background-position: center;
     background-size: cover;
 }
